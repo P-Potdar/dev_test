@@ -1,0 +1,15 @@
+DevTest/
+├── DevTest/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── upload_app/
+    ├── __init__.py
+    ├── forms.py
+    ├── models.py
+    ├── views.py
+    ├── urls.py
+    └── templates/
+        └── upload_app/
+            └── upload.html
